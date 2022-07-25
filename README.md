@@ -1,4 +1,4 @@
-Toy Project
+Toy Project (10000Hours Page)
 ===========
 (HTML, CSS, JavaScript)
 
