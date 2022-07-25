@@ -6,5 +6,5 @@ Toy Project
 - This page is for getting to know about how much time to spend to be a Programmer.
 - 開発者になるために入力窓に数字を入力すると、平均値の時間を知らせるホームページ。
 
+
 ![10000hours](./10000hours.png)
-<img src="./10000hours.png", height="100px", width="100px">
